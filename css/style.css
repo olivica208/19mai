@@ -3,7 +3,9 @@ body{
 
 }
 form{
-    width: 500px;
+    width: 250px;
+    margin-left: 600px;
+    background-color: blanchedalmond;
 }
 input{
     background-color: aquamarine;
