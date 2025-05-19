@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+
+}
+form{
+    width: 500px;
+}
+input{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+}
