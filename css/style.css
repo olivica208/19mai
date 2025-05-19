@@ -10,3 +10,8 @@ input{
     border: none;
     border-radius: 5px;
 }
+button{
+    width: 169px;
+    background-color: rgb(94, 59, 139);
+    color: azure;
+}
